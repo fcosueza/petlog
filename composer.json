@@ -1,11 +1,16 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "Petlog",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A simple app to keep track of your pets data.",
     "keywords": [
-        "laravel",
-        "framework"
+        "pets",
+        "log",
+        "dogs",
+        "cats",
+        "vet data",
+        "food",
+        "weight"
     ],
     "license": "MIT",
     "require": {
