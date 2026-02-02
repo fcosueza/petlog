@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "Petlog",
+    "name": "fcosueza/petlog",
     "type": "project",
     "description": "A simple app to keep track of your pets data.",
     "keywords": [
@@ -8,7 +8,7 @@
         "log",
         "dogs",
         "cats",
-        "vet data",
+        "vetdata",
         "food",
         "weight"
     ],
